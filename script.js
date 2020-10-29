@@ -49,4 +49,3 @@ $(document).ready(function(){
     $("#hour-17 description").val(localStorage.getItem("hour-17"))
     $("#currentDay").text(moment().format("dddd, MMMM Do"))
 })
-
